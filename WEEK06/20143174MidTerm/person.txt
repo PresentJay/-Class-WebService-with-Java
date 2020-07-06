@@ -1,0 +1,7 @@
+hakbun=201011222/name=bang/tel=010-1111-2222/jumin=981225-1234567/address=busan
+hakbun=201011222/name=sung/tel=010-2222-3333/jumin=980101-2345678/address=seoul
+hakbun=201011222/name=do/tel=010-3333-4444/jumin=010505-3456789/address=gwangju
+hakbun=201011222/name=san/tel=010-4444-5555/jumin=010303-4567890/address=daegu
+hakbun=201011222/name=sun/tel=010-6666-7777/jumin=890101-1234560/address=ulsan
+hakbun=201011222/name=guem/tel=010-5555-6666/jumin=900101-1234560/address=daejeon
+hakbun=201011222/name=haung/tel=010-7777-8888/jumin=910101-1234560/address=incheon

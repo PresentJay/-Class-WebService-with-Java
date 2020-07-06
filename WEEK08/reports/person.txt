@@ -1,0 +1,9 @@
+hakbun=201011222/name=이방원/tel=010-1111-2222/jumin=981225-1234567/address=부산시
+hakbun=201011222/name=이성계/tel=010-2222-3333/jumin=980101-2345678/address=서울시
+hakbun=201011222/name=이도/tel=010-3333-4444/jumin=010505-3456789/address=광주시
+hakbun=201011222/name=이산/tel=010-4444-5555/jumin=010303-4567890/address=대구시
+hakbun=201011222/name=이선/tel=010-6666-7777/jumin=890101-1234560/address=울산시
+hakbun=201011222/name=이금/tel=010-5555-6666/jumin=900101-1234560/address=대전시
+hakbun=201011222/name=이하응/tel=010-7777-8888/jumin=910101-1234560/address=인천시
+hakbun=222222222/name=이주빈/tel=010-0101-0101/jumin=980609-2345678/address=부산시
+hakbun=20143174/name=정현재/tel=010-2908-7892/jumin=940907-1234567/address=울산시

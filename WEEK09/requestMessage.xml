@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns0="http://webservice.class.inje.ac.kr" env:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <env:Header />
+    <env:Body>
+        <ns0:sayHello>
+            <arg0>20</arg0>
+            <!-- <arg1>30</arg1> -->
+        </ns0:sayHello>
+    </env:Body>
+</env:Envelope>

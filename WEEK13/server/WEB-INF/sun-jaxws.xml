@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">
+        <endpoint name="person table manager" implementation="mytest.PersonManager" interface="mytest.IPersonManager" url-pattern="/PersonManager" />
+</endpoints>
